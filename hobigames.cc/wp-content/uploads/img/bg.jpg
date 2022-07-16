@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=http://hobigames.cc/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "http://hobigames.cc/";
+		</script>
+
+		<p>You are being redirected to <a href="http://hobigames.cc/">http://hobigames.cc/</a></p>
+	</body>
+</html>
